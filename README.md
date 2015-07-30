@@ -1,14 +1,13 @@
-Swift Easing Functions
---------
-# Supported functions
+## Swift Easing Functions
+
+### Supported functions
 * Linear
 * Sine
 
-# Partially supported functions
+### Partially supported functions
 * Quintic
 * Exponential
 
 
-Inspiration
---------
+##Inspiration
 * Robert Penner (http://www.robertpenner.com/easing/)
